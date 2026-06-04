@@ -5,4 +5,4 @@
 <img width="1470" alt="Screenshot 2025-04-23 at 10 41 46 PM" src="https://github.com/user-attachments/assets/0723bce5-f76c-4f78-b4f1-eb637499d7f2" />
 <img width="1470" alt="Screenshot 2025-04-23 at 10 45 17 PM" src="https://github.com/user-attachments/assets/49ecd63d-3287-4796-a27a-2fd3dfa433a3" />
 
-https://ai-saas-platform-kappa.vercel.app/
+
